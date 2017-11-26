@@ -4,8 +4,8 @@ Analysis and npv calculator tool for a Tesla Powerwall 1 in PG&amp;E.
 <br><br>
 I put this analysis together in early 2016 around the launch of the Tesla Powerwall 1. 
 The objective here was to understand if purchasing a Powerwall 1 made economic sense for a 'typical' homeowner in PG&E. 
-At the time (and still today) there was a lot of hype around time-of-use arbitrage with residential stationary storage (withut PV). 
-There are two directories:
+At the time (and still today) there was a lot of hype around time-of-use arbitrage with residential stationary storage. 
+There are two main directories in this repo:
 1. main_gui
 2. write_up
 #### main_gui
