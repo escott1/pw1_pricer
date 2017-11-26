@@ -22,11 +22,11 @@ I also put together a Powerpoint presentation that summarizes the analysis.
 * Numpy = 1.8.0rc1
 * Seaborn
 ### Running the NPV GUI:
-After running <code>python gui.py</code>, a screen will pop-up:
+After running <code>python gui.py</code>, a screen will pop-up:<br>
 ![ScreenShot](/main_gui/gui_screenshot.png)
 * Select your PG&E tariff region from the drop-down menu at the top. Ex. Bay Area homes are in region 'T'
 * Powerwall lifetime: select the expected life of your powerwall. Tesla's warranty is 10 years, however you can extend (or shorten this)
 * Project disocunt rate: difficult to assume, can think of this like the opportunity cost rate of purchasing the PW1. For example, if money in your bank savings account is earning 2% annual interest, select 2%
-* PG&E Price Escalation: is the price increase per year (in %) from PG&E. Again, difficult to assume but it does affect the NPV
+* PG&E Price Escalation: is the price increase per year (in %) from PG&E. Again, difficult to assume but it does affect the NPV.
 * The NPV will print in the text box. You can clear the contents of the text box by pressing 'Clear'
 * Close will exit the gui
