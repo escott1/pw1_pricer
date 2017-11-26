@@ -22,6 +22,7 @@ I also put together a Powerpoint presentation that summarizes the analysis.
 * Numpy 1.8.0rc1
 * Seaborn
 ### Running the NPV GUI:
+After running <code>python gui.py</code><br><br>, a screen will pop-up:
 ![ScreenShot](/main_gui/gui_screenshot.png)
 * Select your PG&E tariff region from the drop-down menu at the top. Ex. Bay Area homes are in region 'T'
 * Powerwall lifetime: select the expected life of your powerwall. Tesla's warranty is 10 years, however you can extend (or shorten this)
