@@ -9,7 +9,7 @@ There are two main directories in this repo:
 1. main_gui
 2. write_up
 #### main_gui
-Contains the python scripts, csv files and images for the net-present-value (npv) calculator. Just run:<br><br>
+Contains the python scripts, csv files and images for the net-present-value (npv) calculator. In a terminal session run:<br><br>
 <code>python gui.py</code><br><br>
 from the main_gui directory to bring up the gui. Details below on what the different gui fields mean.
 #### write_up
@@ -17,9 +17,9 @@ This was a more detailed look at the actual battery operation. See the pdf file 
 my approach, assumptions and details behind the battery charge / discharge algorithm.
 I also put together a Powerpoint presentation that summarizes the analysis.
 ### Dependencies
-* Python 2.7.10
-* Pandas 0.19.1
-* Numpy 1.8.0rc1
+* Python = 2.7.10
+* Pandas = 0.19.1
+* Numpy = 1.8.0rc1
 * Seaborn
 ### Running the NPV GUI:
 After running <code>python gui.py</code><br><br>, a screen will pop-up:
